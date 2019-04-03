@@ -3,7 +3,7 @@ import 'models/video.dart';
 
 import 'package:http/http.dart' as http;
 
-const API_KEY = "AIzaSyAD4kjH6gvka_P6QVQik1ak8_WHxUk47ws";
+const API_KEY = "YOUR_KEY";
 
 /*
 "https://www.googleapis.com/youtube/v3/search?part=snippet&q=$search&type=video&key=$API_KEY&maxResults=10"
